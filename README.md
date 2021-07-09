@@ -21,6 +21,7 @@ Hi, I'm Faiz Shaikh, a Web Developer 🚀 from Mumbai, India, currently, I'm a 2
 
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![faiz's github stats](https://github-readme-stats.vercel.app/api?username=sk-faiz&show_icons=true&theme=radical)
