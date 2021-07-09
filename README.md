@@ -9,7 +9,7 @@
 
 Hi, I'm Faiz Shaikh, a Web Developer 🚀 from Mumbai, India, currently, I'm a 2nd year undergraduate student of Computer Science. Beside's Computer Science, I love Anime. 
 
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Web%20Developer-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
