@@ -30,11 +30,8 @@ Hi, I'm Faiz Shaikh, a Web Developer 🚀 from Mumbai, India, currently, I'm a 2
 
 ![faiz's github stats](https://github-readme-stats.vercel.app/api?username=sk-faiz&show_icons=true&theme=radical)
 
-<br><br>
+<br>
 <a href="https://github.com/sk-faiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-faiz&theme=radical&hide=glsl,python">
 </a>
-<br><br>
-<a href="https://github.com/sk-faiz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-faiz&show_icons=true&theme=radical&hide=glsl,python&line_height=30" alt="Faiz's github stats"/>
-</a>
+<br>
