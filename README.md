@@ -13,7 +13,7 @@ Hi, I'm Faiz Shaikh, a Web Developer 🚀 from Mumbai, India, currently, I'm a 2
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
+- 👨🏽‍💻 I’m currently trying to get Internships
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about anything, I am happy to help
 
