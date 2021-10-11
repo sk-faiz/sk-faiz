@@ -27,7 +27,7 @@ Hi, I'm Faiz Shaikh, a Web Developer 🚀 from Mumbai, India, currently, I'm a 2
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-1[image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 
 
 ![faiz's github stats](https://github-readme-stats.vercel.app/api?username=sk-faiz&show_icons=true&theme=radical)
