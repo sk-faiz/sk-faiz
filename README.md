@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-FaizShaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-shaikh-9a1463203/)](https://www.linkedin.com/in/faiz-shaikh-9a1463203/) [![Twitter Badge](https://img.shields.io/badge/-@FAIZSK22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FAIZSK22)](https://twitter.com/FAIZSK22) [![Instagram Badge](https://img.shields.io/badge/-@faizsk22-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/faizsk22/)](https://www.instagram.com/faizsk22/)
  
 
-### Hey 👋🏽, I'm [Faiz!]
+### Hey 👋🏽, I'm Faiz!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-faiz" alt="sk-faiz" /> </p> 
 
 
