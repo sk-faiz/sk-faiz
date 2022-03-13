@@ -23,6 +23,4 @@ Hi, I'm Faiz Shaikh, a Reactjs Developer 🚀 from Mumbai, India, currently, I'm
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 
-<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-faiz&show_icons=true&hide_border=true)
