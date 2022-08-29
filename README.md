@@ -7,7 +7,7 @@
 
 <br/>
 
-Hi, I'm Faiz Shaikh, a Reactjs Developer 🚀 from Mumbai, India, currently, I'm a 2nd year undergraduate student of Computer Science.
+Hi, I'm Faiz Shaikh, a Reactjs Developer 🚀 from Mumbai, India, currently, I'm a 3rd year undergraduate student of Computer Science.
 ####      ![](https://img.shields.io/badge/Web%20Developer-%3C%2F%3E-blueviolet)
  
 
