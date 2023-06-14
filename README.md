@@ -7,7 +7,7 @@
 
 <br/>
 
-Reactjs and PHP Developer 🚀 from Mumbai, India, currently, I'm a final year undergrad student of Computer Science.
+Full Stack Developer 🚀 from Mumbai, India, currently, I'm a final year undergrad student of Computer Science.
 ####      ![](https://img.shields.io/badge/Web%20Developer-%3C%2F%3E-blueviolet)
  
 
